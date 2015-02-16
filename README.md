@@ -10,3 +10,11 @@ Peragro is more granular than your run-of-the-mill DMS, it tracks 'assets' withi
 Contact
 --------
 IRC: irc.freenode.net #peragro
+
+Google Summer of Code
+--------------------
+Peragro will participate in GSoC 2015, you can find our ideas page here:
+
+https://github.com/peragro/peragro/wiki/GSoC-Ideas
+
+Ofcourse you're always free to propose other ideas, come discuss it with us on IRC!
