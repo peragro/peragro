@@ -13,7 +13,7 @@ IRC: irc.freenode.net #peragro
 
 Google Summer of Code
 --------------------
-Peragro will participate in GSoC 2015, you can find our ideas page here:
+Peragro will participate in GSoC 2016, you can find our ideas page here:
 
 https://github.com/peragro/peragro/wiki/GSoC-Ideas
 
